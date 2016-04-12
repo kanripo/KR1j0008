@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view; -*-
 #+TITLE: 廣雅
-#+DATE: 2016-04-12 14:30:33.302988
+#+DATE: 2016-04-12 14:30:33.566241
 #+PROPERTY: ID KR1j0008
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 0
 <pb:KR1j0008_WYG_000-1a>¶
 　　欽定四庫全書　　　　經部十¶
